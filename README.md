@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - What was your motivation?
 I was eager to learn something new. I also enjoy challenges and embrace the opportunity to work through problems.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-I built this project so I could begin to understand coding and what it takes to be a web developer.
+I built this project so I could begin to understand coding and see what it takes to be a web developer.
 - What problem does it solve?
 This project provided me a great study tool that I can use to reference in the future.
 - What did you learn?
